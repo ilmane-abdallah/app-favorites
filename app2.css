@@ -1,0 +1,54 @@
+body{
+    background-image: url("instagram/fond-ecran-insta.jpg");
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    border:black 2px solid;
+    background-color:orange;
+    opacity: 0.9;
+    font-family: 'Fjalla One', sans-serif;
+    box-shadow: 5px 5px 5px black;
+
+
+}
+
+p{
+    border:2px solid black;
+    background-color:rgb(112, 93, 93) ;
+    box-shadow: 5px 5px 5px black;
+    font-family: 'Fjalla One', sans-serif;
+    padding:10px 10px 10px 10px;
+    margin:10px 10px 50px 10px;
+    text-align: center;
+    font-size: 115%;   
+    font-weight: bolder; 
+}
+
+.img1{
+    width: 15%;
+    box-shadow: 5px 5px 10px black;
+}
+
+.img2{
+    width:15%;
+    box-shadow: 5px 5px 10px black;
+    margin-left:1100px;
+    margin-bottom: 25px;
+    
+}
+
+.img3{ 
+    width:35%;
+    box-shadow: 5px 5px 10px black;
+    margin-left:80px;
+    margin-bottom: 30px;
+
+}
+
+.under{
+    text-decoration: underline;
+}
+
+
+
